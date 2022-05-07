@@ -1,0 +1,33 @@
+{
+    "name": "omniscient222",
+    "symbol": "222",
+    "description": "omniscient222",
+    "seller_fee_basis_points": 500,
+    "image": "https://raw.githubusercontent.com/dynaris/omniscient_mock_data/master/6.gif",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "test",
+        "value": "test"
+     }
+    ],
+    "collection": {
+       "name": "omniscient222",
+       "family": "omniscient222" 
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/dynaris/omniscient_mock_data/master/6.gif",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "5it37DBqoGsr4fn7KQgq9L1KVS3hxpVk1tg3vX7jtjf1",
+          "share": 100
+        }
+      ]
+    }
+  }
